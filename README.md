@@ -3,4 +3,6 @@
  
  Compile: compile with makefile
  
- Usage: ./pseudo-shell
+ Usage: 
+ ./pseudo-shell
+ ./pseudo-shell -f input.txt
